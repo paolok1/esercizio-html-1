@@ -1,0 +1,21 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(29, 29, 211);
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.font{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: lightgreen;
+}
+.dati{
+    background-image: url(./media/codice.jpg);
+}
+a:hover{color: lightseagreen;}
+a{color: yellow;}
+.colorediverso{
+    color: black;
+}
